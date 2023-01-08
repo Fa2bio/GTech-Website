@@ -7,7 +7,7 @@
 * [What is it?](#what-is-it)
 * [Technologies Used](#technologies)
 * [Installation](#installation)
-* [Preview] (#preview)
+* [Preview](#preview)
 
 ## <a name="what-is-it"></a>What is it?
 
