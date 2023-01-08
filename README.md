@@ -15,7 +15,7 @@ This is a simple project for a website about fun facts about games and technolog
 
 ## <a name="technologies"></a>Technologies Used
 
-- BootStrap
+- Bootstrap
 - Html
 - CSS
 - Javascript
